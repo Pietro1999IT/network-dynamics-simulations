@@ -31,6 +31,6 @@
 ![Image7](images/problem1.4_2.png)
 
 ## NOTES 
-This project has been assigned as a problem in the Network Dynamics and Learning course at the Polytechnic University of Turin, during A.Y. 2020/2021.
+This project has been assigned as a problem in the Network Dynamics and Learning course at the Polytechnic University of Turin, during A.Y. 2022/2023.
 
 All numbers regarding the H1N1 pandemic in Sweden during the fall of 2009 have been taken from the report by the Swedish Civil Contingencies Agency (Myndigheten för samhällsskydd och beredskap, MSB) and the Swedish Institute for Communicable Disease Control (Smittsky-ddsinstitutet, SMI).
